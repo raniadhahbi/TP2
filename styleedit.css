@@ -1,0 +1,25 @@
+.controllabel1 {
+    font-family: "Times New Roman", Times, serif;
+    color: royalblue;
+  }
+.controlgroup1{
+    font-family: "Times New Roman", Times, serif;
+    
+  }
+.controls1{
+
+        font-size: 150%;
+      
+
+}
+.btn {
+    display: inline-block;
+          padding: 10px 20px;
+          text-align: center;
+          text-decoration: none;
+          color: #ffffff;
+          background-color: #7aa8b7;
+          border-radius: 6px;
+          outline: none;
+        }
+        

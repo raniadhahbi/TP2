@@ -1,0 +1,84 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-family: arial, sans-serif;
+    
+  }
+  
+  
+  
+  h2{
+      color:#bd0000;
+  }
+  .btn {
+    display: inline-block;
+          padding: 10px 20px;
+          text-align: center;
+          text-decoration: none;
+          color: #ffffff;
+          background-color: #7aa8b7;
+          border-radius: 6px;
+          outline: none;
+        }
+.btn1 {
+       display: inline-block;
+       padding: 10px 20px;
+       text-align: center;
+       text-decoration: none;
+       color: #ffffff;
+       background-color: #000080;
+       border-radius: 6px;
+       outline: none;
+                }
+.btn-success{
+      display: inline-block;
+      padding: 10px 20px;
+      text-align: center;
+      text-decoration: none;
+      color: #ffffff;
+      background-color:#007070;
+      border-radius: 6px;
+      outline: none;
+      }
+.btn-danger{
+        display: inline-block;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        color: #ffffff;
+        background-color: red;
+        border-radius: 6px;
+        outline: none;
+                        }
+
+                       
+.btn2{
+  display: inline-block;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  color: #ffffff;
+  background-color:#007070;
+  border-radius: 6px;
+  outline: none;
+  cursor: pointer; 
+    }
+.control-label
+{
+font-size: 20px;
+}
+.controls{
+  color: red;
+}
+
+.btn3{
+  display: inline-block;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  color: #ffffff;
+  background-color:#a6a6a6;
+  border-radius: 6px;
+  outline: none;
+  cursor: pointer; 
+    }

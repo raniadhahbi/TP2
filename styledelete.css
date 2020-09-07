@@ -1,0 +1,26 @@
+.btn {
+  display: inline-block;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        color: #ffffff;
+        background-color: grey;
+        border-radius: 6px;
+        outline: none;
+      }
+.btn-danger{
+        display: inline-block;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        color: #ffffff;
+        background-color: red;
+        border-radius: 6px;
+        outline: none;
+                        }
+.text{
+  background-color:#ffcccc;
+  width: 50%;
+  border: 1px solid #4CAF50;
+}
+                       

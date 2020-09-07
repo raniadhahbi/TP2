@@ -1,0 +1,34 @@
+.controllabel2 {
+    font-family: "Times New Roman", Times, serif;
+    color: royalblue;
+  }
+.controlgroup2{
+    font-family: "Times New Roman", Times, serif;
+    
+  }
+.controls2{
+
+        font-size: 150%;
+      
+
+}
+.btn2 {
+     display: inline-block;
+     padding: 10px 20px;
+     text-align: center;
+     text-decoration: none;
+     color: #ffffff;
+     background-color: #6666ff;
+     border-radius: 6px;
+     outline: none;
+    }
+    .btn-success{
+        display: inline-block;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        color: #ffffff;
+        background-color:#007070;
+        border-radius: 6px;
+        outline: none;
+        }
